@@ -1,0 +1,31 @@
+//#include<stdio.h>
+//int main() {
+//	int t;
+//	scanf("%d", &t);
+//	while (t--) {
+//		int count = 0;
+//		char s[11];
+//		scanf("%10s", s);
+//		if (s[0] != 'c')
+//			count++;
+//		if (s[1] != 'o')
+//			count++;
+//		if (s[2] != 'd')
+//			count++;
+//		if (s[3] != 'e')
+//			count++;
+//		if (s[4] != 'f')
+//			count++;
+//		if (s[5] != 'o')
+//			count++;
+//		if (s[6] != 'r')
+//			count++;
+//		if (s[7] != 'c')
+//			count++;
+//		if (s[8] != 'e')
+//			count++;
+//		if (s[9] != 's')
+//			count++;
+//		printf("%d\n", count);
+//	}
+//}
