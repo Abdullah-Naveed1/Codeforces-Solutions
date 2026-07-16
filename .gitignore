@@ -3,3 +3,10 @@
 *.o
 *.obj
 .vscode/
+
+*.vcxproj
+*.filters
+*.user
+.vs/
+
+.cph/
